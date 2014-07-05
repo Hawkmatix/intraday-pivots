@@ -1,0 +1,14 @@
+Hawkmatix Intraday Pivots - TODO
+
+Copyright 2012, 2013 Andrew Hawkins.
+
+Everyone is permitted to copy and distribute verbatim copies
+of this file, but changing it is not allowed.
+
+============================================================
+
+* Add option to plot future values for pivots.
+* Add option to only show current pivots.
+* Add additional pivot calculation types. (Fibonacci, Woodie's, Camarilla, etc.)
+* Additional documentation and examples.
+* Test for bugs.
