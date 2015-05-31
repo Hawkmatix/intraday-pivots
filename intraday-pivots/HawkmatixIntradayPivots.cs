@@ -2,7 +2,7 @@
  * Hawkmatix Intraday Pivots 1.0.0.3
  * Official project page: http://www.hawkmatix.com/projects/idpivots
  *
- * Copyright 2012, 2013 Andrew Hawkins
+ * Copyright (C) 2012, 2013 Andrew Hawkins
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published by
