@@ -16,12 +16,12 @@ round to the nearest tick is also available.
 Installation
 ------------
 
-Install from source, method 1 (Requires Python)::
+Install from source, method 1 (Requires Python):
 
     1. ``> python setup.py``
     2. Follow the directions after the script completes.
 
-Install from source, method 2::
+Install from source, method 2:
 
     1. Unzip the downloaded file ``intraday-pivots-master.zip``.
     2. Locate the source file ``HawkmatixIntradayPivots.cs``.
