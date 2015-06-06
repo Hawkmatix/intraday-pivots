@@ -69,7 +69,7 @@ Supports NinjaTrader 6.5.1000.19 - 7.0.1000.27.
 License
 -------
 
-All code contained in this repository is Copyright 2012-Present Andrew C.
+All code contained in this repository is Copyright 2012 - Present Andrew C.
 Hawkins.
 
 This code is released under the GNU Lesser General Public License. Please see
