@@ -11,14 +11,25 @@ correlation with price movement. Other calculation methods are available as
 well, which are open included, high weighted, low weighted, and close weighted.
 These pivots have five support levels, five resistance levels, and a central
 pivot, to provide more zones for extremely volatile periods. The option to
-round to the nearest tick is also available. 
+round to the nearest tick is also available.
 
 Installation
 ------------
 
-Install from source::
+Install from source, method 1 (Requires Python)::
 
-    
+    1. ``> python setup.py``
+    2. Follow the directions after the script completes.
+
+Install from source, method 2::
+
+    1. Unzip the downloaded file ``intraday-pivots-master.zip``.
+    2. Locate the source file ``HawkmatixIntradayPivots.cs``.
+    3. Move the source file to the NinjaTrader indicator folder ``Documents/
+       NinjaTrader 7/bin/Custom/Indicator``.
+    4. Open any indicator in NinjaTrader by going to Tools > Edit NinjaScript
+       > Indicator...
+    5. Press the ``compile`` button in the menu bar.
 
 Package Contents
 ----------------
@@ -31,7 +42,7 @@ Usage
 
 This software is intended for use with the NinjaTrader trading platform.
 Full documentation is available at
-http://Hawkmatix.github.io/intraday-pivots.html
+http://hawkmatix.github.io/intraday-pivots.html
 
 Supported Operating Environment
 -------------------------------
@@ -75,7 +86,7 @@ Changelog
 * v3 Additional documentation added to the script for clarity.
 
 * v2 The ability to round to the nearest tick is added. The ability to change
-the weighting of the calculation is added.
+  the weighting of the calculation is added.
 
 * v1 Standard intraday pivot calculations are made, based upon an amount of
-time in minutes, and plotted.
+  time in minutes, and plotted.
